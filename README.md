@@ -1,0 +1,1 @@
+# MTQ_PINNs_with_dynamic_init_conditions
